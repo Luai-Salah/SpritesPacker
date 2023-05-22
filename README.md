@@ -14,10 +14,10 @@ Note: if you want to specify the output file name you have to specify the orderi
 
 If you run the program without arguments it will defualt to `-h` and `output`
 ```
-SpritePacker
+PS C:\Sprites\Player\> SpritePacker
 ```
 
 ```
-SpritePacker -v PlayerSpriteSheet.png
+PS C:\Sprites\Player\> SpritePacker -v PlayerSpriteSheet.png
 ```
 This program will create a sprite sheet with the name "PlayerSpriteSheet.png" with a vertical ordering
