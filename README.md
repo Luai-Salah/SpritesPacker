@@ -10,7 +10,7 @@ You can use 2 arguments:
 
 Note: if you want to specify the output file name you have to specify the ordering mode
 
-##Example programs:
+## Example programs:
 
 If you run the program without arguments it will defualt to `-h` and `output`
 ```
